@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyCoordinatorLayout.iml" filepath="$PROJECT_DIR$/MyCoordinatorLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myappbarlayouttest/myappbarlayouttest.iml" filepath="$PROJECT_DIR$/myappbarlayouttest/myappbarlayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycardview/mycardview.iml" filepath="$PROJECT_DIR$/mycardview/mycardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycoordinator/mycoordinator.iml" filepath="$PROJECT_DIR$/mycoordinator/mycoordinator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylinearlayoutcompat/mylinearlayoutcompat.iml" filepath="$PROJECT_DIR$/mylinearlayoutcompat/mylinearlayoutcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" filepath="$PROJECT_DIR$/myrecyclerview/myrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoolbar/mytoolbar.iml" filepath="$PROJECT_DIR$/mytoolbar/mytoolbar.iml" />
+    </modules>
+  </component>
+</project>
